@@ -38,7 +38,7 @@
 ---
 
 
-### **4. – Clustering with Frequent Itemsets**
+### **4. Clustering with Frequent Itemsets**
 - **Skills**: Clustering (KMeans, Agglomerative), unsupervised learning, cluster validation, visualization  
 - Performed clustering on frequent itemset-transformed datasets.  
 - **Datasets**:  
@@ -51,7 +51,7 @@
 ---
 
 
-### **5. – Advanced Analysis with UCI Datasets**
+### **5. Advanced Analysis with UCI Datasets**
 - **Skills**: Apriori on real-world datasets, association rule analysis, data visualization  
 - Deepened analysis on Banknote Authentication dataset.  
 - **Insights**:  
